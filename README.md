@@ -4,7 +4,7 @@ This is a Python Script to find the cheapest ticket on Megabus.com. It will auto
 ## Usage
 * Download the Python file or Clone the repo 
 ```console
-git clone https://github.com/kavisanghavi/Megabus 
+https://github.com/kavisanghavi/Megabus-Cheapest-Ticket-Finder.git
 ```
 
 * Enter your month and year from where you want to start the search.
